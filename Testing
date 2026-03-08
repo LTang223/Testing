@@ -7,5 +7,8 @@
 <body>
   <h1>Welcome to my website</h1>
   <p>I built this with GitHub Pages.</p>
+  <button onclick="alert('Hello!')">
+  Click me
+  </button>
 </body>
 </html>
